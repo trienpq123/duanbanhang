@@ -1,0 +1,25 @@
+@media screen and (max-width: 768px){
+    .container{
+        max-width: 767px;
+    }
+
+    .header-search{
+        display: none;
+    }
+
+    .contact-phone{
+        display: none;
+    }
+
+    .contact-login{
+        display: none;
+    }
+
+    .header-navbar span {
+        font-size: 28px;
+    }
+
+    .flex-start{
+        justify-content: flex-start;
+    }
+}
